@@ -1,5 +1,5 @@
-# Propyecto Cifrado Cesar
-##Realizado por Verónica Cortés
+# Proyecto Cifrado Cesar
+## Realizado por Verónica Cortés
 #### Esta es la versión `0.0.1` 
 
 ## SeudoCódigo
@@ -43,4 +43,4 @@ Format: ![Alt Text](http://subirimagen.me/uploads/20171005081052.jpg)
 https://cloud.smartdraw.com/share.aspx/?pubDocShare=59931A7788DFA11B7755A31F25D68E67569
 
 
-######Quinto Elemento JIJIJI S.A.
+###### Quinto Elemento JIJIJI S.A.
